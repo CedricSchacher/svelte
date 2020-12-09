@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="932ca1a5-abb6-49f2-abae-719c9ae79908" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="blogUbersicht" />
+        <option value="blogDetail" />
+        <option value="profil" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lJBQrP4R8zanBVS0OcrToYLLUO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../svelte - Kopie" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="932ca1a5-abb6-49f2-abae-719c9ae79908" name="Default Changelist" comment="" />
+      <created>1607305300608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607305300608</updated>
+      <workItem from="1607305301642" duration="584000" />
+      <workItem from="1607305924119" duration="1647000" />
+      <workItem from="1607325953386" duration="1745000" />
+      <workItem from="1607327775290" duration="1762000" />
+      <workItem from="1607329643611" duration="1761000" />
+      <workItem from="1607331461377" duration="866000" />
+      <workItem from="1607333389960" duration="1829000" />
+      <workItem from="1607335269269" duration="1763000" />
+      <workItem from="1607337080027" duration="1737000" />
+      <workItem from="1607412735708" duration="623000" />
+      <workItem from="1607414549747" duration="1044000" />
+      <workItem from="1607415645914" duration="784000" />
+      <workItem from="1607417480114" duration="1748000" />
+      <workItem from="1607419360319" duration="867000" />
+      <workItem from="1607421172766" duration="1673000" />
+      <workItem from="1607429236304" duration="1759000" />
+      <workItem from="1607431274005" duration="1771000" />
+      <workItem from="1607433087735" duration="1510000" />
+      <workItem from="1607437748073" duration="2399000" />
+      <workItem from="1607461289234" duration="1779000" />
+      <workItem from="1607463136499" duration="1770000" />
+      <workItem from="1607464949505" duration="1764000" />
+      <workItem from="1607466761735" duration="1763000" />
+      <workItem from="1607468572811" duration="1652000" />
+      <workItem from="1607470390444" duration="1768000" />
+      <workItem from="1607472202358" duration="1764000" />
+      <workItem from="1607474014799" duration="1762000" />
+      <workItem from="1607475834337" duration="1785000" />
+      <workItem from="1607477664530" duration="1545000" />
+      <workItem from="1607479594691" duration="111000" />
+      <workItem from="1607479767944" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="243" key="FileChooserDialogImpl" timestamp="1607479777455">
+      <screen x="0" y="0" width="1904" height="968" />
+    </state>
+    <state x="734" y="243" key="FileChooserDialogImpl/0.0.1904.968@0.0.1904.968" timestamp="1607479777455" />
+    <state x="740" y="223" key="FileChooserDialogImpl/0.0.1920.890@0.0.1920.890" timestamp="1607335349437" />
+    <state x="740" y="247" key="FileChooserDialogImpl/0.0.1920.984@0.0.1920.984" timestamp="1607305520814" />
+    <state width="941" height="272" key="GridCell.Tab.0.bottom" timestamp="1607479706257">
+      <screen x="0" y="0" width="1904" height="968" />
+    </state>
+    <state width="941" height="272" key="GridCell.Tab.0.bottom/0.0.1904.968@0.0.1904.968" timestamp="1607479706257" />
+    <state width="949" height="246" key="GridCell.Tab.0.bottom/0.0.1920.890@0.0.1920.890" timestamp="1607338839082" />
+    <state width="949" height="278" key="GridCell.Tab.0.bottom/0.0.1920.984@0.0.1920.984" timestamp="1607422866979" />
+    <state width="941" height="272" key="GridCell.Tab.0.center" timestamp="1607479706241">
+      <screen x="0" y="0" width="1904" height="968" />
+    </state>
+    <state width="941" height="272" key="GridCell.Tab.0.center/0.0.1904.968@0.0.1904.968" timestamp="1607479706241" />
+    <state width="949" height="246" key="GridCell.Tab.0.center/0.0.1920.890@0.0.1920.890" timestamp="1607338839082" />
+    <state width="949" height="278" key="GridCell.Tab.0.center/0.0.1920.984@0.0.1920.984" timestamp="1607422866979" />
+    <state width="941" height="272" key="GridCell.Tab.0.left" timestamp="1607479706241">
+      <screen x="0" y="0" width="1904" height="968" />
+    </state>
+    <state width="941" height="272" key="GridCell.Tab.0.left/0.0.1904.968@0.0.1904.968" timestamp="1607479706241" />
+    <state width="949" height="246" key="GridCell.Tab.0.left/0.0.1920.890@0.0.1920.890" timestamp="1607338839082" />
+    <state width="949" height="278" key="GridCell.Tab.0.left/0.0.1920.984@0.0.1920.984" timestamp="1607422866979" />
+    <state width="941" height="272" key="GridCell.Tab.0.right" timestamp="1607479706257">
+      <screen x="0" y="0" width="1904" height="968" />
+    </state>
+    <state width="941" height="272" key="GridCell.Tab.0.right/0.0.1904.968@0.0.1904.968" timestamp="1607479706257" />
+    <state width="949" height="246" key="GridCell.Tab.0.right/0.0.1920.890@0.0.1920.890" timestamp="1607338839082" />
+    <state width="949" height="278" key="GridCell.Tab.0.right/0.0.1920.984@0.0.1920.984" timestamp="1607422866979" />
+    <state x="615" y="207" width="672" height="678" key="search.everywhere.popup" timestamp="1607474720723">
+      <screen x="0" y="0" width="1904" height="968" />
+    </state>
+    <state x="615" y="207" width="672" height="678" key="search.everywhere.popup/0.0.1904.968@0.0.1904.968" timestamp="1607474720723" />
+  </component>
+</project>
